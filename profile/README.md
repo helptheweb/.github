@@ -1,7 +1,8 @@
-<img src="https://helptheweb.org/favicon.png" width="48">
+<img src="https://helptheweb.org/mascot.png" width="100">
+
 ## Hey there 👋
 
-[Help The Web] is dedicated to [a more accessible web]. Want to get involved? 👇
+Help The Web is dedicated to a more accessible web. Want to get involved? 👇
 
 ## Our Projects
 
@@ -25,26 +26,22 @@ Check out our [Contribution Guidelines](CONTRIBUTING.md) for more information.
 
 Join our community to stay updated and connect with other contributors:
 
-- [Discord](https://discord.gg/your-invite-link)
-- [Twitter](https://twitter.com/your-org-handle)
-- [Blog](https://your-org-blog.com)
+- [Newsletter](https://helptheweb.beehiiv.com/subscribe)
+- [LinkedIn](https://linkedin.com/company/helptheweb)
 
 ## Support
 
 If you need help or have any questions, please:
 
-1. Check our [FAQ](https://your-org-website.com/faq)
-2. Join our Discord server for real-time support
-3. Open an issue in the relevant repository
+1. [Contact Us](https://helptheweb.org/contact)
+2. Open an issue in the relevant repository
 
 ## Sponsors
-
-We're grateful for the support of our sponsors:
-
-[Sponsor logos or names]
 
 Interested in sponsoring our work? Check out our [Sponsorship page](https://your-org-website.com/sponsor) for more information.
 
 ---
 
-© [Year] [Your Organization Name]. Licensed under [License Name](LICENSE).
+© 2024 Help The Web Inc. Licensed under [MIT](LICENSE).
+
+Help The Web Inc. is an active 501(c)(3) charitable organization
