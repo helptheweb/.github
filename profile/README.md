@@ -1,4 +1,6 @@
-<img src="https://helptheweb.org/mascot.png" width="100">
+<p align="center" width="100%">
+<img src="https://helptheweb.org/mascot.png" width="300" align="center">
+</p>
 
 ## Hey there 👋
 
@@ -8,7 +10,7 @@ Help The Web is dedicated to a more accessible web. Want to get involved? 👇
 
 Here are some of our key projects:
 
-1. [Scanner](https://github.com/helptheweb/scanner) - Component to be imported in JS projects to get results from an accessibility audit
+1. [scanner](https://github.com/helptheweb/scanner) - Component to be imported in JS projects to get results from an accessibility audit
 2. [cli](https://github.com/your-org/project2) - CLI for the accessibility scanner
 
 ## Getting Involved
