@@ -11,7 +11,7 @@ Help The Web is dedicated to a more accessible web. Want to get involved? 👇
 Here are some of our key projects:
 
 1. [scanner](https://github.com/helptheweb/scanner) - Component to be imported in JS projects to get results from an accessibility audit
-2. [cli](https://github.com/your-org/project2) - CLI for the accessibility scanner
+2. [helper](https://github.com/helptheweb/helper) - UI component to adjust accessibility settings on your website
 
 ## Getting Involved
 
@@ -40,7 +40,7 @@ If you need help or have any questions, please:
 
 ## Sponsors
 
-Interested in sponsoring our work? Check out our [Sponsorship page](https://your-org-website.com/sponsor) for more information.
+Interested in sponsoring our work? Check out our [Sponsorship page](https://helptheweb.org/sponsor) for more information.
 
 ---
 
