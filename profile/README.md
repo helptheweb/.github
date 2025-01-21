@@ -2,6 +2,8 @@
 <img src="https://helptheweb.org/mascot.png" width="300" align="center">
 </p>
 
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/helptheweb)
+
 ## Hey there 👋
 
 Help The Web is dedicated to a more accessible web. Want to get involved? 👇
@@ -40,7 +42,7 @@ If you need help or have any questions, please:
 
 ## Sponsors
 
-Interested in sponsoring our work? Check out our [Sponsorship page](https://helptheweb.org/sponsor) for more information.
+Interested in sponsoring our work? Check out our [Sponsorship page](https://github.com/sponsors/helptheweb) for more information.
 
 ---
 
