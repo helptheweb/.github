@@ -12,7 +12,7 @@ Help The Web is dedicated to a more accessible web. Want to get involved? 👇
 
 Here are some of our key projects:
 
-1. [scanner](https://github.com/helptheweb/scanner) - Component to be imported in JS projects to get results from an accessibility audit
+1. [accessibility-scanner](https://github.com/helptheweb/accessibility-scanner) - API and CLI to scan websites for issues
 2. [helper](https://github.com/helptheweb/helper) - UI component to adjust accessibility settings on your website
 
 ## Getting Involved
